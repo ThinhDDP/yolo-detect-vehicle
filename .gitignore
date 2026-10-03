@@ -1,0 +1,6 @@
+YOLO_ENV/
+runs/
+__pycache__/
+yolo26x-seg.pt
+.DS_Store
+*.jpg
